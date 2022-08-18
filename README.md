@@ -17,3 +17,6 @@
 |  | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY2P2.md) |
 | DAY3 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY3P1.md) |
 |  | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY3P2.md) |
+| DAY4 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P1.md) |
+|  | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P2.md) |
+|  | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P3.md) |
