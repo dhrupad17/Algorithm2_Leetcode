@@ -20,3 +20,9 @@
 | DAY4 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P1.md) |
 |  | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P2.md) |
 |  | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY4P3.md) |
+| DAY5 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY5P1.md) |
+|  | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY5P2.md) |
+|  | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY5P3.md) |
+| DAY6 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY6P1.md) |
+|  | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY6P2.md) |  
+
