@@ -25,4 +25,8 @@
 |  | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY5P3.md) |
 | DAY6 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY6P1.md) |
 |  | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY6P2.md) |  
-
+| DAY7 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY7P1.md) |
+|  | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY7P2.md) |
+| DAY8 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P1.md) |
+|  | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P2.md) |
+|  | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P3.md) |
