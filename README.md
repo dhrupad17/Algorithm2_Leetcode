@@ -30,3 +30,8 @@
 | DAY8 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P1.md) |
 |  | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P2.md) |
 |  | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY8P3.md) |
+| DAY9 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY9P1.md) |
+|  | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY9P2.md) |
+| DAY10 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P1.md) |
+|  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P2.md) |
+|  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P3.md) |
