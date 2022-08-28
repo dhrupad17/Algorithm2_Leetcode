@@ -35,3 +35,12 @@
 | DAY10 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P1.md) |
 |  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P2.md) |
 |  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY10P3.md) |
+| DAY11 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY11P1.md) |
+|  | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY11P2.md) |
+|  | 79 | [Word Search](https://leetcode.com/problems/word-search/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY11P3.md) |
+| DAY12 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY12P1.md) |
+|  | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY12P2.md) |
+| DAY13 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY13P1.md) |
+|  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY13P2.md) |
+| DAY14 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY14P1.md) |
+|  | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY14P2.md) |
