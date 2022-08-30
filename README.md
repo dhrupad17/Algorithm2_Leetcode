@@ -44,3 +44,7 @@
 |  | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY13P2.md) |
 | DAY14 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY14P1.md) |
 |  | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY14P2.md) |
+| DAY15 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY15P1.md) |
+|  | 139 | [Word Break](https://leetcode.com/problems/word-break/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY15P2.md) |
+| DAY16 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY16P1.md) |
+|  | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY16P2.md) |
