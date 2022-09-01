@@ -53,3 +53,6 @@
 | DAY18 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY18P1.md) |
 |  | 343 | [Integer Break](https://leetcode.com/problems/integer-break/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY18P2.md) |
 | DAY19 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY19P1.md) |
+| DAY20 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/?envType=study-plan&id=algorithm-ii) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY20P1.md) |
+| DAY21 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan&id=algorithm-ii) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY21P1.md) |
+|  | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/?envType=study-plan&id=algorithm-ii) | `Hard` | [👉Click Here](https://github.com/dhrupad17/Algorithm2_Leetcode/blob/main/DAY21P2.md) |
